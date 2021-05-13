@@ -10,7 +10,11 @@ Analyzing the covid vaccination data found on Kaggle to see which countries have
   - plotly.express
   - plotly.offline
  
-![Screenshot](newplot.png)
+## Visualization  
+
+![Screenshot](newplot.png)  
+
+On generating this map using plotly, scrolling over it will show the country ISO code and the names of vaccines they're administering. 
 
 The data can be found on Kaggle:   
 https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
