@@ -9,6 +9,8 @@ Analyzing the covid vaccination data found on Kaggle to see which countries have
   - seaborn
   - plotly.express
   - plotly.offline
+ 
+ <"img src=\"Image/newplot.PNG\" width=\"300\">\n">
 
 The data can be found on Kaggle:   
 https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
