@@ -10,4 +10,10 @@ Analyzing the covid vaccination data found on Kaggle to see which countries have
   - plotly.express
   - plotly.offline
 
+The data can be found on Kaggle: 
+https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
+
+Reference:
+https://thecleverprogrammer.com/2021/04/13/covid-19-vaccines-analysis-with-python/
+
 
