@@ -10,7 +10,7 @@ Analyzing the covid vaccination data found on Kaggle to see which countries have
   - plotly.express
   - plotly.offline
  
- <"img src=\"Image/newplot.PNG\" width=\"300\">\n">
+![Alt text](C:\Users\hansi\Desktop\Projects\covid_vaccination\newplot.png?raw=true "Title")
 
 The data can be found on Kaggle:   
 https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv
